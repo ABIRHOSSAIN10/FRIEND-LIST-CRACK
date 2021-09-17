@@ -1,0 +1,7 @@
+# FRIEND-LIST-CRACK
+
+git clone https://github.com/ABIRHOSSAIN10/FRIEND-LIST-CRACK
+
+cd FRIEND-LIST-CRACK
+
+python2 FD-CRACK.
